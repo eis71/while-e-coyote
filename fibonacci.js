@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')({sigint: true});
 
-let userInterface = Number(prompt("Enter a number "));
+let userInterface = Number(prompt("Enter a number: "));
 let num1 = 0;
 let num2 = 1;
 let burrito = Number()
